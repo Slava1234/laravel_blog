@@ -1,0 +1,101 @@
+body{
+
+}
+
+
+
+.create-post-btn{ margin-top: 22px; }
+.form-spacing-top { margin-top: 30px; }
+.btn-h1-spacing { margin-top: 10px; }
+.margin-top-95 { margin-top: 95px; }
+.margin-top-15 { margin-top: 15px; }
+.margin-top-5 { margin-top: 5px; }
+
+.hidden{ display:none; }
+
+/* Список постов */
+.post-title:hover {
+	text-decoration: none;
+}
+.post-title h3 {
+	font-family: monospace;
+	font-size: 20px;
+	color: #563e3e;
+}
+
+
+.post-title h3:hover {
+	color: #2d30b0;
+}
+/* !Список постов */
+/* Категории */
+.category-selected-active {
+	background-color: #e1e1e1;
+}
+.category-h3 {
+	color: #424546;
+	margin-left: 13px;
+}
+.category-links-list {
+	color: #5eb6bb;
+}
+.category-links-list:hover {
+	text-decoration: none;
+	color: #2d898e;
+}
+.category-li-list:hover{
+	background-color: #e1e1e1;
+}
+
+/* ! Категории */
+
+/* Comments */
+.comments-title {
+	margin-bottom: 20px;
+}
+.comment {
+	margin-bottom: 40px;
+	background-color: #fbf9f9;
+}
+.author-name h4{
+	margin: 0;
+}
+.author-time {
+	font-size: 11px;
+	font-style: italic;
+	color: #aaa;
+	margin-bottom: 5px;
+}
+.comment-content {
+	font-size: 16px;
+	line-height: 1.3em;
+}
+
+/* ! Comments */
+
+/* Админ панель */
+.admin-search-form form{
+	margin-left: -12px;
+}
+
+.admin-table-buttons {
+	float: right;
+}
+
+.width-100 {
+	width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* !Админ панель */
